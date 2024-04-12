@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    display: flex;
+    background-color: cadetblue;
+    font-family: 'Roboto' , sans-serif;
+    height: 100vh;
+    
+    justify-content: center;
+}
+
+.contenedor{
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+    margin-top: 50px;
+    background-color: white;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+    width: 600px;
+    height: 70px;
+    background-color: white;
+    display: center;
+    transition: all ease-in-out .5s;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+    
